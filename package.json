@@ -1,0 +1,24 @@
+{
+  "name": "recur-fn",
+  "version": "1.0.0",
+  "description": "Recursive Arrow Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunar/recur-fn.git"
+  },
+  "keywords": [
+    "recursive",
+    "recur",
+    "arrow"
+  ],
+  "author": "Gunar C. Gessner <gunar@gunargessner.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gunar/recur-fn/issues"
+  },
+  "homepage": "https://github.com/gunar/recur-fn#readme"
+}
