@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/gunar/recur-fn/issues"
   },
-  "homepage": "https://github.com/gunar/recur-fn#readme"
+  "homepage": "https://github.com/gunar/recur-fn#readme",
+  "dependencies": {
+    "tape": "^4.7.0"
+  }
 }
