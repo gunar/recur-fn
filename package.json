@@ -21,7 +21,7 @@
     "url": "https://github.com/gunar/recur-fn/issues"
   },
   "homepage": "https://github.com/gunar/recur-fn#readme",
-  "dependencies": {
+  "devDependencies": {
     "tape": "^4.7.0"
   }
 }
