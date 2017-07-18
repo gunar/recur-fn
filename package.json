@@ -1,6 +1,6 @@
 {
   "name": "recur-fn",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Recursive Arrow Functions",
   "main": "index.js",
   "scripts": {
